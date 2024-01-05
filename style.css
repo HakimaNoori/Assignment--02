@@ -1,6 +1,6 @@
 /* Write CSS here */
 body {
-    background-image: URL("./beautiful-dream-nature-photos-3.jpg");
+    background-image: URL("./image/beautiful-dream-nature-photos-3.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
@@ -9,7 +9,7 @@ body {
 
 /* styles conformation */
 .confirmation {
-    background-image: URL("./beautiful-dream-nature-photos-4.jpg");
+    background-image: URL("./image/beautiful-dream-nature-photos-4.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -20,7 +20,6 @@ body {
     width: 600px;
     margin-left: 23%;
     padding-top: 10px;
-
 }
 
 #name,
@@ -31,9 +30,7 @@ body {
 #select-label,
 select {
     display: block;
-
 }
-
 
 #name,
 #email,
