@@ -1,0 +1,80 @@
+/* Write CSS here */
+body {
+    background-image: URL("./beautiful-dream-nature-photos-3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+
+}
+
+/* styles conformation */
+.confirmation {
+    background-image: URL("./beautiful-dream-nature-photos-4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.cont {
+    background-color: rgba(20, 123, 121, 0.855);
+    height: 130px;
+    width: 600px;
+    margin-left: 23%;
+    padding-top: 10px;
+
+}
+
+#name,
+#email,
+#number,
+#radio-label,
+#checkbox-lsbel,
+#select-label,
+select {
+    display: block;
+
+}
+
+
+#name,
+#email,
+#number,
+textarea {
+    padding: 4px 350px 4px 9px;
+}
+
+select {
+    padding: 4px 431px 4px 9px;
+
+}
+
+#survey-form {
+    padding-left: 6%;
+}
+
+.container {
+    background-color: rgba(8, 69, 68, 0.855);
+    height: 560px;
+    width: 600px;
+    margin-left: 23%;
+}
+
+#title,
+#description {
+    text-align: center;
+}
+
+#title {
+    padding-top: 15px;
+}
+
+#submit {
+    padding: 12px 25px;
+    background-color: rgba(101, 184, 10, 0.5);
+    border-radius: 10px;
+    color: #fff;
+}
+
+.submit {
+    text-align: center;
+
+}
